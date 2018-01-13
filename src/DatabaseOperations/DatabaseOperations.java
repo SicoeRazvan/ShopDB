@@ -15,9 +15,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -42,9 +42,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -70,9 +70,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -94,9 +94,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -140,9 +140,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -183,9 +183,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -210,9 +210,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -238,9 +238,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -263,9 +263,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -293,9 +293,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -337,9 +337,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
@@ -384,9 +384,9 @@ public class DatabaseOperations {
         Class.forName("org.postgresql.Driver");
 
         // 2. define connection params to db
-        final String URL = "jdbc:postgresql://54.93.65.5:5432/razvan7";
-        final String USERNAME = "fasttrackit_dev";
-        final String PASSWORD = "fasttrackit_dev";
+        final String URL = "";
+        final String USERNAME = "";
+        final String PASSWORD = "";
 
         // 3. obtain a connection
         Connection conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
